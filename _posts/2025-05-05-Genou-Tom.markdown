@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Tom Genou"
+date:   2025-05-05 12:47:35 +0200
+categories: jekyll update
+my_variable: tom.html
+---
